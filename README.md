@@ -19,7 +19,7 @@
 
  Результаты расчета метрик представлены в [Расчет_метрик.ipynb](https://github.com/PavlovDmitriN/MFTI_NLP_Course_project/blob/main/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82_%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA.ipynb)
 
- Отчет по работе с описанием датасета, метрик, экспериментов, обзором работ и списком литературы в файле [Отчет по выпускной работе.pdf](https://github.com/PavlovDmitriN/MFTI_NLP_Course_project/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5.pdf) 
+ Отчет по работе с описанием датасета, метрик, экспериментов, обзором работ и списком литературы в файле [Отчет по работе.pdf](https://github.com/PavlovDmitriN/MFTI_NLP_Course_project/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5.pdf) 
  
 
  
